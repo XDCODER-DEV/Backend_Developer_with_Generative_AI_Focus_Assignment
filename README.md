@@ -4,7 +4,7 @@
 ![alt text](image/chatbot.png)
 
 
-Please check the pdf ```assignment.pdf``` for main task and its content for descriptive information about generative AI chatbot.
+Please check the pdf ```assignment.pdf``` for main task and i have share more descriptive information about generative AI chatbot in this pdf file.
 [click here](assignment.pdf)
 
 # Bonus Task (Optional)

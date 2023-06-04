@@ -3,7 +3,9 @@
 
 ![alt text](image/chatbot.png)
 
-For more details please check [click here](assignment.pdf)
+
+Please check the pdf ```assignment.pdf``` for main task and its content for descriptive information about generative AI chatbot.
+[click here](assignment.pdf)
 
 # Bonus Task (Optional)
 

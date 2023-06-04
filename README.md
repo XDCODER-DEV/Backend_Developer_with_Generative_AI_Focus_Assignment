@@ -18,6 +18,6 @@ Please check the ```requirements.txt``` file
 
 ## Model Training and Inference
 
-check the ```weather_forcasts.ipybn```
+Check the [weather_forcasts.ipybn](weather_forecasts.ipynb) file for model training and inference
 
 
